@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,NumPy,Pandas,Statistics,Attendance_Percent,Assignment_Percent
+S001,Aarav Sharma,CSE,86,91,78,88,92,95
+S002,Diya Reddy,ECE,74,81,79,83,88,90
+S003,Rohan Kumar,CSE,92,89,95,94,91,98
+S004,Ananya Singh,IT,65,72,68,75,80,84
+S005,Vikram Patel,EEE,48,55,51,60,67,72
+S006,Meera Nair,CSE,88,93,90,87,94,96
+S007,Arjun Das,MECH,57,62,59,64,70,76
+S008,Ishita Rao,IT,81,85,88,79,91,93
+S009,Kabir Joshi,ECE,69,74,72,70,78,82
+S010,Saanvi Gupta,CSE,95,97,93,96,98,99
+S011,Aditya Verma,EEE,38,46,42,50,58,63
+S012,Nisha Iyer,IT,77,82,80,84,86,91
+S013,Rahul Menon,MECH,61,58,65,62,73,79
+S014,Priya Shah,ECE,84,87,83,89,90,94
+S015,Karthik Rao,CSE,72,76,74,80,85,88
+S016,Tara Bose,IT,90,92,89,91,95,97
+S017,Manav Jain,EEE,53,49,57,55,64,68
+S018,Aditi Kulkarni,CSE,79,84,81,86,89,92
+S019,Neil Fernandes,MECH,44,51,47,56,61,70
+S020,Pooja Mishra,ECE,87,90,86,88,93,96
